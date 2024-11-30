@@ -1,5 +1,5 @@
-# UI-UX-Design-Challenges
-UI/UX design screens of app ideas I’d love to use, showcasing my process from research to prototyping, with a focus on intuitive digital experiences.
+# UI-UX-Design-Mock Ups
+UI/UX design screens of app ideas I’d love to use, showcasing my talents, interests and skills ✨
 
 ![CoffeeNote](https://github.com/user-attachments/assets/a911794e-3d92-4a5d-864c-22263c5e6f0d)
 
