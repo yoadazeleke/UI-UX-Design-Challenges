@@ -9,7 +9,7 @@ UI/UX design screens of app ideas I’d love to use, showcasing my process from 
 
 ![FInsync dashboard](https://github.com/user-attachments/assets/7b2e7952-817a-416e-aad6-e8e1093c4827)
 
-![Empowernet](https://github.com/user-attachments/assets/67b344bc-4ae2-4ea7-a6ef-389a401d9786)
+![EmpowerNet (1)](https://github.com/user-attachments/assets/ee5399bb-56d6-4203-9ccf-f743cdc2ffcd)
 
 ![Pet Pals](https://github.com/user-attachments/assets/589ac6be-7258-4c11-b951-76db473b3ec5)
 
